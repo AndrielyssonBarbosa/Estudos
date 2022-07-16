@@ -9,8 +9,9 @@ public with sharing class ViaCepJson {
     public String gia;
     public String ddd;
     public String siafi;
-
+ 
+    
     public ViaCepJson(){
-        
+
     }
 }
